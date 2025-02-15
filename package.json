@@ -1,0 +1,21 @@
+{
+  "name": "react-learnig",
+  "version": "1.0.0",
+  "description": "It's a library to generate component based applications. React stablished its model to MVVM / [[mvc]]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emersondivB0/React-Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/emersondivB0/React-Learning/issues"
+  },
+  "homepage": "https://github.com/emersondivB0/React-Learning#readme"
+}
