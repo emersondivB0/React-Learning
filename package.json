@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/emersondivB0/React-Learning/issues"
   },
-  "homepage": "https://github.com/emersondivB0/React-Learning#readme"
+  "homepage": "https://github.com/emersondivB0/React-Learning#readme",
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
 }
